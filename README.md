@@ -1,15 +1,25 @@
 # DITRI-AI
-ReactTypeScript
 
-📝 Description
+![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white)
+
+## 📝 Description
+
 DITRI-AI is a web-based AI assistant built with React and TypeScript. It provides users with intelligent assistance through a user-friendly web interface. Explore the power of AI with DITRI-AI!
 
-✨ Features
-🕸️ Web
-🛠️ Tech Stack
-⚛️ React
-📜 TypeScript
-📦 Key Dependencies
+## ✨ Features
+
+- 🕸️ Web
+
+
+## 🛠️ Tech Stack
+
+- ⚛️ React
+- 📜 TypeScript
+
+
+## 📦 Key Dependencies
+
+```
 @hookform/resolvers: ^3.10.0
 @radix-ui/react-accordion: ^1.2.11
 @radix-ui/react-alert-dialog: ^1.1.14
@@ -25,13 +35,20 @@ DITRI-AI is a web-based AI assistant built with React and TypeScript. It provide
 @radix-ui/react-menubar: ^1.1.15
 @radix-ui/react-navigation-menu: ^1.2.13
 @radix-ui/react-popover: ^1.1.14
-🚀 Run Commands
-dev: npm run dev
-build: npm run build
-build:dev: npm run build:dev
-lint: npm run lint
-preview: npm run preview
-📁 Project Structure
+```
+
+## 🚀 Run Commands
+
+- **dev**: `npm run dev`
+- **build**: `npm run build`
+- **build:dev**: `npm run build:dev`
+- **lint**: `npm run lint`
+- **preview**: `npm run preview`
+
+
+## 📁 Project Structure
+
+```
 smart-agent-flow-2f2350cc
 ├── bun.lockb
 ├── components.json
@@ -133,17 +150,28 @@ smart-agent-flow-2f2350cc
 ├── tsconfig.json
 ├── tsconfig.node.json
 └── vite.config.ts
-🛠️ Development Setup
-Node.js/JavaScript Setup
-Install Node.js (v18+ recommended)
-Install dependencies: npm install or yarn install
-Start development server: (Check scripts in package.json, e.g., npm run dev)
-👥 Contributing
+```
+
+## 🛠️ Development Setup
+
+### Node.js/JavaScript Setup
+1. Install Node.js (v18+ recommended)
+2. Install dependencies: `npm install` or `yarn install`
+3. Start development server: (Check scripts in `package.json`, e.g., `npm run dev`)
+
+
+## 👥 Contributing
+
 Contributions are welcome! Here's how you can help:
 
-Fork the repository
-Clone your fork: git clone https://github.com/rohit4500-coder/DITRI-AI.git
-Create a new branch: git checkout -b feature/your-feature
-Commit your changes: git commit -am 'Add some feature'
-Push to your branch: git push origin feature/your-feature
-Open a pull request
+1. **Fork** the repository
+2. **Clone** your fork: `git clone https://github.com/rohit4500-coder/DITRI-AI.git`
+3. **Create** a new branch: `git checkout -b feature/your-feature`
+4. **Commit** your changes: `git commit -am 'Add some feature'`
+5. **Push** to your branch: `git push origin feature/your-feature`
+6. **Open** a pull request
+
+Please ensure your code follows the project's style guidelines and includes tests where applicable.
+
+---
+*This README was generated with ❤️ by ReadmeBuddy*
